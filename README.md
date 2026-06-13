@@ -1,4 +1,4 @@
-# Marf-BERT Core: Fetal Health Neural Classifier v1.0
+# Marf-BERT: Fetal Health Classifier v1.0
 
 A sophisticated **diagnostic system** for fetal health assessment using BERT-based neural classification on Cardiotocography (CTG) clinical data.
 
